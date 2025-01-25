@@ -1,7 +1,6 @@
 # HumanAuth Protocol 🌐🤖🔒  
 
 **An Open-Source Framework to Distinguish Humans from AI on the Web**  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 
 **GitHub**: [github.com/humanauth-protocol](https://github.com/humanauth-protocol)  
 
@@ -88,7 +87,7 @@ We welcome developers, researchers, and ethicists!
 ---
 
 ## License 📄  
-This project is licensed under the MIT License. See [LICENSE](LICENSE).  
+This project is licensed under the Apache2 License. See [LICENSE](LICENSE).  
 
 ---
 
